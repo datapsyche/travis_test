@@ -4,5 +4,4 @@ python:
   - "3.7"
 
 script:
-  - python calc.py
   - python test_calc.py
